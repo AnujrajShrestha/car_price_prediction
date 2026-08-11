@@ -1,7 +1,7 @@
 numpy
 pandas
 scikit-learn
-pydanitc
+pydantic
 datetime
 fastapi
 uvicorn
